@@ -11,3 +11,12 @@
 .navbar-brand{
     width: min-content;
 }
+@media screen and (max-width: 400px){
+     
+    .logo {
+        
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+}
