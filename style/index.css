@@ -7,3 +7,7 @@
     height: auto;
     object-fit: cover;
 }
+
+.navbar-brand{
+    width: min-content;
+}
